@@ -1,6 +1,8 @@
-# alcoders-galacticos
+# Welcome to alcoders-galacticos #
 
-This is a collaborative knowledge repository multidisciplinary
+## This is a collaborative knowledge repository multidisciplinar ##
+
+**Guide lines**
 
 To contribute new knowledge follow the next steps:
 
