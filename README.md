@@ -1,5 +1,7 @@
 # Welcome to alcoders-galacticos #
 
+[![Join the chat at https://gitter.im/h1pp1e/alcoders-galacticos](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/h1pp1e/alcoders-galacticos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## This is a collaborative knowledge repository multidisciplinar ##
 
 **Guide lines**
