@@ -21,6 +21,13 @@ To contribute new knowledge follow the next steps:
 
 **Have a nice hacking :)**
 
+**How To**
+- [ ] How to create a topic folder.
+- [ ] How to add a markdown file.
+- [ ] How to attach scripts, files, images, videos and whatever ( what ever that means :P ).
+- [ ] How to sign your contribution.
+
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/h1pp1e/alcoders-galacticos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [How to write markdown language](https://help.github.com/articles/markdown-basics/)
