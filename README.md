@@ -1,5 +1,5 @@
 # Welcome to alcoders-galacticos #
-<<<<<<< HEAD
+
 # alcoders-galacticos
 ## This is a collaborative knowledge repository multidisciplinar ##
 
@@ -32,4 +32,3 @@ To contribute new knowledge follow the next steps:
 
 [How to write markdown language](https://help.github.com/articles/markdown-basics/)
 [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
->>>>>>> 760fb7b26cf62d4ee9c399874b324005430eca81
