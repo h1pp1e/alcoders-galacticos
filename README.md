@@ -1,5 +1,11 @@
 # Welcome to alcoders-galacticos #
 
+# alcoders-galacticos
+## This is a collaborative knowledge repository multidisciplinar ##
+
+**Guide lines**
+=======
+
 [![Join the chat at https://gitter.im/h1pp1e/alcoders-galacticos](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/h1pp1e/alcoders-galacticos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## This is a collaborative knowledge repository multidisciplinar ##
@@ -14,6 +20,13 @@ To contribute new knowledge follow the next steps:
 * Four don't forget sign your contribution with your name, nicl, email, etc
 
 **Have a nice hacking :)**
+
+**How To**
+- [ ] How to create a topic folder.
+- [ ] How to add a markdown file.
+- [ ] How to attach scripts, files, images, videos and whatever ( what ever that means :P ).
+- [ ] How to sign your contribution.
+
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/h1pp1e/alcoders-galacticos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
